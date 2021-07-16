@@ -381,7 +381,7 @@
     "@types/dot": "^1.1.4",
     "@types/fs-extra": "^8.1.1",
     "@types/mocha": "^5.2.7",
-    "@types/node": "^12.12.47",
+    "@types/node": "^16.3.3",
     "@types/sinon": "^7.5.2",
     "chai": "^4.2.0",
     "copy-webpack-plugin": "^5.1.1",
